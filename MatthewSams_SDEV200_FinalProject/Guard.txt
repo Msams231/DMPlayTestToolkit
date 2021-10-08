@@ -1,0 +1,16 @@
+Name: Guard
+Stats
+Strength: 13
+Dexterity: 12
+Constitution: 12
+Intelligence: 10
+Wisdom: 11
+Charisma: 10
+HP: 11
+AC: 16
+Speed: 30ft
+Size: Medium
+Level: 1/8
+Proficiency Bonus: 2
+Die Used: D8
+Stat Used: Strength
